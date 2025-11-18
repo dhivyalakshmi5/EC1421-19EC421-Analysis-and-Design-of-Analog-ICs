@@ -41,12 +41,11 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
-
-
+![WhatsApp Image 2025-11-18 at 21 15 00_d0a1c7e7](https://github.com/user-attachments/assets/4d1d9ab4-232e-41da-8ec5-79134035d467)
 
 ## MODEL GRAPH
-
-
+![WhatsApp Image 2025-11-18 at 21 15 33_fa93941a](https://github.com/user-attachments/assets/527d98c5-615f-447e-a22f-826432c933a8)
+![WhatsApp Image 2025-11-18 at 21 15 49_7eab5561](https://github.com/user-attachments/assets/500bfcf5-e9ba-4ce5-8bf4-88ce5734c3df)
 
 ## PROCEDURE:
 
@@ -58,12 +57,10 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 are plotted in a graph sheet.
 
 ## TABULATION:
-
-
+![WhatsApp Image 2025-11-18 at 21 15 19_9fa7d796](https://github.com/user-attachments/assets/bbacfe2a-8253-4435-ac15-13cf66d7f3e2)
 
 ## GRAPH:
-
-
+![WhatsApp Image 2025-11-18 at 21 16 05_e8d2fc3f](https://github.com/user-attachments/assets/9bc8ebc1-8fd2-481d-b377-7c3d4b0066ba)
 
 ## RESULT:
 
