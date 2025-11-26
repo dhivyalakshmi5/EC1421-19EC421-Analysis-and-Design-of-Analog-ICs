@@ -23,11 +23,10 @@ LT-Spice
 7. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-### SCHMITT TRIGGER:
-
-
+![WhatsApp Image 2025-11-26 at 10 13 43_30efcc53](https://github.com/user-attachments/assets/7ccc719e-ea5c-43f8-9957-a6f908228053)
 ## OUTPUT GRAPH:
-### SCHMITT TRIGGER:
+![WhatsApp Image 2025-11-26 at 10 13 56_b4fc1394](https://github.com/user-attachments/assets/18737075-3168-4030-a956-b07873ca63df)
+
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Schmitt trigger circuit is simulated.
