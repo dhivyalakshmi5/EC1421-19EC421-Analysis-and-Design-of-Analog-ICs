@@ -37,11 +37,12 @@ For v2 and v3  keeping the other values constant.
 ### DAC:
 <img width="1918" height="1086" alt="image" src="https://github.com/user-attachments/assets/11dc6b18-8788-4419-8d9d-e63e2a8e2c81" />
 
-![WhatsApp Image 2025-11-26 at 10 47 58_13c5462d](https://github.com/user-attachments/assets/be4bd5f0-64ae-49ef-96db-7170d60bac7c)
 
 
 ## OUTPUT GRAPH:
 ### DAC:
+![WhatsApp Image 2025-11-26 at 10 47 58_13c5462d](https://github.com/user-attachments/assets/be4bd5f0-64ae-49ef-96db-7170d60bac7c)
+
 ![WhatsApp Image 2025-11-26 at 10 48 14_eb623619](https://github.com/user-attachments/assets/d9438f54-66df-4df9-9d7c-49f860ae0f1a)
 
 ## RESULT:
